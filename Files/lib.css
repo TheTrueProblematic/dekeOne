@@ -1,0 +1,207 @@
+html{
+    height:100%;
+}
+    body {
+        background-color:#FAFAFF;
+        font-family: 'Roboto', sans-serif;
+        background-size:cover;
+        background-repeat:no-repeat;
+        height:100%;
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+    h1 {
+        position:absolute;
+        text-align:center;
+        left:0;
+        top:0;
+        background-image: linear-gradient(#2176FF, #33A1FD);
+        height:15vh;
+        width:100%;
+        padding: 0;
+        margin: 0;
+        text-shadow:2px 2px black;
+        font-size: 300%
+    }
+    #h1text{
+      position:absolute;
+      text-align:center;
+      left:0;
+      top:25%;
+      width:100%;
+      padding: 0;
+      margin: 0;
+      color:#FAFAFF;
+      text-shadow:2px 2px black;
+      font-size: 100%;
+    }
+    .signon{
+        position:absolute;
+        right:46vw;
+        top:40vh;
+        font-family: 'Roboto', sans-serif;
+        z-index:1;
+        cursor:pointer;
+    }
+    #signin{
+        height:3.5vw;
+        cursor:pointer;
+    }
+    .darkLight{
+      position:absolute;
+      top:0vh;
+      right:2vw;
+    }
+    #seeindark{
+      right:-100vw;
+    }
+    #darkLogo{
+      width:8vw;
+    }
+    #lightLogo{
+      width:8vw;
+    }
+    .black {
+        /*color: black;*/
+        text-decoration:none;
+    }
+    .white {
+        color: #FAFAFF;
+        text-decoration:none;
+    }
+    #h2{
+        position:absolute;
+        text-align:center;
+        top:24vh;
+        font-size:2vw;
+        left:0px;
+        right:0px;
+        /*margin:auto;*/
+    }
+   p{
+        font-size:1.5vw;
+        position:absolute;
+        /*margin:5%;*/
+       margin-top: 7vh;
+       width: 90vw;
+       left:5vw;
+        text-align:justify;
+    }
+    .one{
+        position:absolute;
+        top:30vh;
+        }
+    .two{
+        position:absolute;
+        top:48vh;
+    }
+    .three{
+        position:absolute;
+        top:75vh;
+    }
+    .maintitle{
+        font-size:2.5vw;
+        position:absolute;
+        text-align:center;
+        top:30vh;
+        right:0px;
+        left:0px;
+    }
+    .logo{
+        position:absolute;
+        width:20vw;
+        height:auto;
+        top:10vh;
+        right:40vw;
+    }
+    .logo2{
+        position:absolute;
+        width:15vw;
+        height:auto;
+        left:43vw;
+        top:2vh;
+    }
+    div.menu {
+	position: fixed;
+	left: 0vw;
+	top: 0vh;
+	height: 3vw;
+	width: 2.5vw;
+	overflow: hidden;
+	z-index:12;
+}
+.menuTxt{
+    font-size:1.5vw;
+    line-height:1vw;
+}
+.menuBar{
+    font-size:2vw;
+    text-align:right;
+    width:2.5vw;
+    left:1vw;
+}
+div.menu:hover {
+    /*-webkit-transition: width 0.5s, height 1s;*/
+    /*-o-transition: width 0.5s, height 1s;*/
+    /*-moz-transition: width 0.5s, height 1s;*/
+    /*transition: width 0.5s, height 1s;*/
+    -webkit-transition: width 0.7s;
+    -o-transition: width 0.7s;
+    -moz-transition: width 0.7s;
+    transition: width 0.7s;
+    /* background-image: linear-gradient(#FF8500, #FF850088); */
+    /*background-image: linear-gradient(#2176FF00, #33A1FD, #6bbcff);*/
+    overflow:hidden;
+	width: 9vw;
+	height: 100vh;
+    top: 0vh;
+    left: 0vw;
+}
+.request{
+    position:absolute;
+    top: 70vh;
+    padding:2vh 0;
+    left: 40vw;
+    text-align:center;
+    vertical-align: middle;
+    font-size:150%;
+    cursor:pointer;
+    color: white;
+    width: 20vw;
+    height: 3vh;
+    background-image:linear-gradient(#2176FF, #33A1FD);
+}
+.link{
+    /*color:#0000ff;*/
+    text-decoration:underline;
+    cursor:pointer;
+}
+ul.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#FAFAFF;
+  /*position: -webkit-sticky;*/
+  position: relative;
+  top: 15vh;
+  width:100vw;
+  left:35vw;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  /*color: black;*/
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #FF850088;
+}
+.active {
+  background-color: #FF8500;
+}
