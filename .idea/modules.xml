@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/dekeOne.iml" filepath="$PROJECT_DIR$/.idea/dekeOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eduWeb/.idea/eduWeb.iml" filepath="$PROJECT_DIR$/../eduWeb/.idea/eduWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../svgAnimation/.idea/svgAnimation.iml" filepath="$PROJECT_DIR$/../svgAnimation/.idea/svgAnimation.iml" />
     </modules>
   </component>
 </project>

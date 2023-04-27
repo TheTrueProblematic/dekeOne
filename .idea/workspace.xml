@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5e84a249-3cc7-4b2f-807c-cfc20f0dc453" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../svgAnimation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svgAnimation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svgAnimation/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dekeOne.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dekeOne.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,19 +23,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2NQjne1k4g5xGrnURTZS60NHxoD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" activateToolWindowBeforeRun="false" uri="file://$PROJECT_DIR$/../Website/index.html">
       <method v="2" />
@@ -39,7 +55,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679603368230</updated>
-      <workItem from="1679603371494" duration="31000" />
+      <workItem from="1679603371494" duration="238000" />
+      <workItem from="1679814571038" duration="630000" />
+      <workItem from="1680736950968" duration="1959000" />
+      <workItem from="1681067926321" duration="7000" />
+      <workItem from="1681161263134" duration="147000" />
+      <workItem from="1682555896801" duration="775000" />
     </task>
     <servers />
   </component>
