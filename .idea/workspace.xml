@@ -8,9 +8,6 @@
       <change afterPath="$PROJECT_DIR$/../svgAnimation/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../svgAnimation/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../svgAnimation/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dekeOne.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dekeOne.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
@@ -61,6 +58,7 @@
       <workItem from="1681067926321" duration="7000" />
       <workItem from="1681161263134" duration="147000" />
       <workItem from="1682555896801" duration="775000" />
+      <workItem from="1689282222549" duration="197000" />
     </task>
     <servers />
   </component>
