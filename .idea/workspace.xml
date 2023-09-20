@@ -8,9 +8,7 @@
       <change afterPath="$PROJECT_DIR$/../svgAnimation/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../svgAnimation/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../svgAnimation/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <workItem from="1682555896801" duration="775000" />
       <workItem from="1689282222549" duration="249000" />
       <workItem from="1689628661998" duration="21000" />
-      <workItem from="1695227860103" duration="60000" />
+      <workItem from="1695227860103" duration="123000" />
     </task>
     <servers />
   </component>
