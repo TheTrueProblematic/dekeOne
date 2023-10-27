@@ -9,11 +9,8 @@
       <change afterPath="$PROJECT_DIR$/../svgAnimation/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../svgAnimation/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads.png" beforeDir="false" afterPath="$PROJECT_DIR$/Threads.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patreon.png" beforeDir="false" afterPath="$PROJECT_DIR$/patreon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiktok.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiktok.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/white-x.png" beforeDir="false" afterPath="$PROJECT_DIR$/white-x.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +64,8 @@
       <workItem from="1689282222549" duration="249000" />
       <workItem from="1689628661998" duration="21000" />
       <workItem from="1695227860103" duration="438000" />
-      <workItem from="1698430583123" duration="3743000" />
+      <workItem from="1698430583123" duration="3856000" />
+      <workItem from="1698436066529" duration="5000" />
     </task>
     <servers />
   </component>
