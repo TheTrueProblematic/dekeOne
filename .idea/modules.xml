@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/github/PassPals/.idea/PassPals.iml" filepath="$USER_HOME$/github/PassPals/.idea/PassPals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SamSWeb/.idea/SamSWeb.iml" filepath="$PROJECT_DIR$/../SamSWeb/.idea/SamSWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Website/.idea/Website.iml" filepath="$PROJECT_DIR$/../Website/.idea/Website.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dekeOne.iml" filepath="$PROJECT_DIR$/.idea/dekeOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/../eduWeb/.idea/eduWeb.iml" filepath="$PROJECT_DIR$/../eduWeb/.idea/eduWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/../svgAnimation/.idea/svgAnimation.iml" filepath="$PROJECT_DIR$/../svgAnimation/.idea/svgAnimation.iml" />

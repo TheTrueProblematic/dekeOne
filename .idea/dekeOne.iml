@@ -10,5 +10,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="eduWeb" />
     <orderEntry type="module" module-name="svgAnimation" />
+    <orderEntry type="module" module-name="SamSWeb" />
+    <orderEntry type="module" module-name="Website" />
+    <orderEntry type="module" module-name="PassPals" />
   </component>
 </module>
